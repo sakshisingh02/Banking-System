@@ -1,5 +1,5 @@
 # Banking-System
-
+   It is a simple dynamic website for transferring money between multiple users.
 
 # Technologies Used:
 1. HTML
